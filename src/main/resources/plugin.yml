@@ -1,4 +1,4 @@
-main: net.halflove.snowballdamage.Main
+main: net.halflove.snowballdamage.SnowballDamage
 author: Halflove
 name: SnowballDamage
 version: '${project.version}'
