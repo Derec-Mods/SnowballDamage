@@ -6,7 +6,7 @@
 
   <groupId>net.halflove</groupId>
   <artifactId>SnowballDamage</artifactId>
-  <version>1.2</version>
+  <version>1.0.0.0</version>
   <packaging>jar</packaging>
 
   <name>SnowballDamage</name>
