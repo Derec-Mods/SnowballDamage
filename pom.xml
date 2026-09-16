@@ -39,7 +39,6 @@
             </goals>
               <configuration>
                   <createDependencyReducedPom>false</createDependencyReducedPom>
-                  <outputFile>B:\Items\SnowballDamage-${project.version}.jar</outputFile>
               </configuration>
           </execution>
         </executions>
