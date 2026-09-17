@@ -1,10 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.github.derexxd.safetrample.mixin",
+  "package": "io.github.derexxd.snowballdamage.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "FarmlandBlockMixin"
+    "PlayerEntityMixin",
+    "SnowballEntityMixin",
+    "EggEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
